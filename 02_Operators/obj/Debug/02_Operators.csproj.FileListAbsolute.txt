@@ -1,0 +1,14 @@
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\02_Operators.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\02_Operators.pdb
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\obj\Debug\02_Operators.csprojAssemblyReference.cache
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\obj\Debug\02_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\obj\Debug\02_Operators.csproj.CopyComplete
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\obj\Debug\02_Operators.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\02_Operators\obj\Debug\02_Operators.pdb

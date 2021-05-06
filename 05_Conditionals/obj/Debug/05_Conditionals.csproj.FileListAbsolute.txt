@@ -1,0 +1,14 @@
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\05_Conditionals.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\05_Conditionals.pdb
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\obj\Debug\05_Conditionals.csprojAssemblyReference.cache
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\obj\Debug\05_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\obj\Debug\05_Conditionals.csproj.CopyComplete
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\obj\Debug\05_Conditionals.dll
+C:\Users\Taylor\OneDrive\Documents\Coding&Development\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\CSharpFundamentals\05_Conditionals\obj\Debug\05_Conditionals.pdb
